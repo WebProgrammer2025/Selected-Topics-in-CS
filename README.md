@@ -6,13 +6,11 @@ Project Title
 
 A Fair Experimental Comparison of Dijkstra's, A, and Greedy Best-First Search Algorithms for Shortest Path Finding*
 
-Track
 
 Track 2 — Comparative Study Track
 
-Group
 
-Group 05
+Group 3
 
 Project Description
 
@@ -66,6 +64,6 @@ Success rate
 
 Team Members
 
-Student 1 Name — Student ID
+Soha Sarvath Abdul Azeem — 223049800
 
-Student 2 Name — Student ID
+Rimsha Sarvath Abdul Azeem — 223049802
