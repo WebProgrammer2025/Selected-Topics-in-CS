@@ -1,14 +1,8 @@
 # Selected-Topics-in-CS
-CS 421 project comparing Dijkstra's, A*, and Greedy Best-First Search for shortest-path finding.
-
 CS 421 Course Project — Phase I
-Project Title
-
 A Fair Experimental Comparison of Dijkstra's, A, and Greedy Best-First Search Algorithms for Shortest Path Finding*
 
-
 Track 2 — Comparative Study Track
-
 
 Group 3
 
