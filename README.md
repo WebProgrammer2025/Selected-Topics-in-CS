@@ -1,5 +1,6 @@
 # Selected-Topics-in-CS
 CS 421 Course Project — Phase I
+
 A Fair Experimental Comparison of Dijkstra's, A, and Greedy Best-First Search Algorithms for Shortest Path Finding*
 
 Track 2 — Comparative Study Track
